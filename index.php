@@ -27,7 +27,7 @@ include("foot.php")
 
 <script >  
 
-document.title="ElProfesor"; 
+document.title="Giovanna Rodriguez"; 
 document.getElementById("foto").src="./images/rodriguezgiovanna.jpg";
 document.getElementById("elnombre").innerHTML="Giovanna Sofia Rodríguez Ortiz";
 
