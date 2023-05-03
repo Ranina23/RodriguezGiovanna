@@ -11,8 +11,8 @@
             <div  style="float:left; width:25%; position:relative; text-align:left;">
                     <ul style="margin:0; padding:0;"  class="icons">
                             <li><a href="mailto:educaysoft%40gmail.com" class="icon  fa-envelope" title="Email"><span class="label">Email</span></a></li>
-                            <li><a href="https://twitter.com/home?lang=es" class="icon  fa-twitter" target="_blank" title="Twitter"><span class="label">Twitter</span></a></li>
-                            <li><a href="https://www.facebook.com/stalin.francis.7/" class="icon  fa-facebook" target="_blank" title="Facebook"><span class="label">Facebook</span></a></li>
+                            <li><a href="https://twitter.com/giovrodri" class="icon  fa-twitter" target="_blank" title="Twitter"><span class="label">Twitter</span></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=100009281310691" class="icon  fa-facebook" target="_blank" title="Facebook"><span class="label">Facebook</span></a></li>
                     </ul>
  
             </div>
